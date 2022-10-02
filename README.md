@@ -17,7 +17,7 @@
 <br>
 <p><b>Additionally, I created a dashboard using Tableau to facilitate visualisation.</b></p>
 <p>Visit it at:</p>
-<a href="https://public.tableau.com/views/Covid19_16647107341790/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link">COVID19 Dashboard</a>
+<a href="https://public.tableau.com/views/Covid19_16647107341790/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link" target = "_blank">COVID19 Dashboard</a>
 
 
 
